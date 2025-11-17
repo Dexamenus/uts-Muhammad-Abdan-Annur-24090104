@@ -6,7 +6,7 @@ Link GitHub Pages:
 DESKRIPSI PROJECT
 ==================
 
---HALAMAN LOGIN--
+--HALAMAN LOGIN--<br>
 Email untuk Validasi: abdan@gmail.com<br>
 Pass untuk Validasi : 24090104
 - Menampilkan form login yang meminta input Email (sebagai username) dan Password (diisi dengan NIM).
