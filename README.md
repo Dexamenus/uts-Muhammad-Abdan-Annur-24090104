@@ -1,6 +1,6 @@
-NAMA : Muhammad Abdan Annur
-NIM  : 24090104
-Link GitHub Repository: 
+NAMA : Muhammad Abdan Annur<br>
+NIM  : 24090104<br>
+Link GitHub Repository: <br>
 Link GitHub Pages: 
 
 DESKRIPSI PROJECT
