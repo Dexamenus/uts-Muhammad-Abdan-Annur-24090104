@@ -7,7 +7,7 @@ DESKRIPSI PROJECT
 ==================
 
 --HALAMAN LOGIN--
-Email untuk Validasi: abdan@gmail.com
+Email untuk Validasi: abdan@gmail.com<br>
 Pass untuk Validasi : 24090104
 - Menampilkan form login yang meminta input Email (sebagai username) dan Password (diisi dengan NIM).
 - Menggunakan JavaScript untuk validasi: jika salah satu kolom kosong, akan muncul pesan error.
