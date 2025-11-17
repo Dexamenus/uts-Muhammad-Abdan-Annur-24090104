@@ -1,7 +1,7 @@
 NAMA : Muhammad Abdan Annur<br>
 NIM  : 24090104<br>
-Link GitHub Repository: <br>
-Link GitHub Pages: 
+Link GitHub Repository: https://github.com/Dexamenus/uts-Muhammad-Abdan-Annur-24090104.git <br>
+Link GitHub Pages: https://dexamenus.github.io/uts-Muhammad-Abdan-Annur-24090104/
 
 DESKRIPSI PROJECT
 ==================
