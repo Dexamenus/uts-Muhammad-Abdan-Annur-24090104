@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTS Pemrograman Web</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="app-layout">
+        <nav class="sidebar">
+            <h3>Menu</h3>
+            <ul>
+                <li class="active"><a href="dashboard.html">Dashboard</a></li>
+                <li><a href="products.html">Data Produk</a></li>
+                <li><a href="index.html">Logout</a></li>
+            </ul>
+        </nav>
+        
+        <main class="main-content">
+            <header>
+                <h1>Dashboard</h1>
+            </header>
+            
+            <section class="summary-cards">
+                <div class="card">
+                    <h3>Total Produk</h3>
+                    <p id="totalProducts">0</p>
+                </div>
+                <div class="card">
+                    <h3>Total Penjualan</h3>
+                    <p id="totalSales">0</p>
+                </div>
+                <div class="card">
+                    <h3>Total Revenue</h3>
+                    <p id="totalRevenue">Rp 0</p>
+                </div>
+            </section>
+            
+            <section class="action-section">
+                <button id="viewProductsBtn" class="btn">
+                    Lihat Data Produk &rarr;
+                </button>
+            </section>
+        </main>
+    </div>
+    
+    <script src="js/script.js"></script>
+</body>
+</html>

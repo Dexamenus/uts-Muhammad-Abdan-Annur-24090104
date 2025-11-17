@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTS Pemrograman Web</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body class="login-page">
+
+    <div class="login-container-split">
+
+        <div class="login-branding">
+            <div class="branding-image-placeholder">
+                <img src="img/p.png" alt="Login Image">
+            </div>
+        </div>
+
+        <div class="login-form-wrapper">
+            <form id="loginForm" class="form-card">
+
+                <h2>Welcome Back!</h2>
+
+                <div class="input-group">
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email" placeholder="Masukkan email Anda" required>
+                </div>
+
+                <div class="input-group">
+                    <label for="password">Password</label>
+                    <a href="#" class="forgot-password">Forgot Password?</a>
+                    <input type="password" id="password" name="password" placeholder="Masukkan NIM Anda" required>
+                </div>
+
+                <div id="errorMessage" class="error-message"></div>
+
+                <button type="submit" class="btn">Login</button>
+
+                <div class="social-login">
+                    <p>Or</p>
+                    <div class="social-buttons-wrapper">
+                        <button type="button" class="btn btn-secondary btn-social">
+                            <i class="fa-brands fa-google"></i> Google
+                        </button>
+                        <button type="button" class="btn btn-secondary btn-social">
+                            <i class="fa-brands fa-facebook-f"></i> Facebook
+                        </button>
+                    </div>
+                </div>
+                <p class="signup-link">
+                    Don't have an account? <a>Sign Up</a>
+                </p>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
